@@ -25,11 +25,15 @@ Following visualizations have been created.
 
 ### Summary:
 - As per 2010 census, the median age in the city of Des Moines, Iowa was 33.5 years. 24.8% of residents were under the age of 18; 10.9% were between the ages of 18 and 24; 29.4% were from 25 to 44; 23.9% were from 45 to 64; and 11% were 65. 
-- Citi Bikes is covering more area compared to Des Moines, Iowa including Manhattan and Brooklyn and is still very successful.
-- Given the above details, we can look further into Des Moines data to come to a conclusion if we can start bike sharing here as well.  
+- Citi Bikes in New York city is covering more area compared to Des Moines, Iowa.
+- Per capita income of the area with most bike usage is between 31,200 to 72,800.
+- Given the above details, we can look further into Des Moines data to come to a conclusion if bikesharing can work there as well.  
 
 #### Additional Visualizations:
 - Age Median Layer viz has been added to the challenge. Here geographic data is being viewed along with the age median layer to give a better understanding of the population.
 
 ![image](https://user-images.githubusercontent.com/82654977/126928537-5848fb91-0bde-4948-83d1-bf1d41991caf.png)
 
+- Per Capita income layer added to our map
+
+![image](https://user-images.githubusercontent.com/82654977/126931844-9b06eac1-177b-46dd-834a-a0dd45d12e06.png)
